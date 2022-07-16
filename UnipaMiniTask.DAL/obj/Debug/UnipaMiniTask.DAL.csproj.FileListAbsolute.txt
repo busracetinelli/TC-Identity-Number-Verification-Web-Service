@@ -1,0 +1,11 @@
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\UnipaMiniTask.DAL.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\UnipaMiniTask.DAL.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\Dapper.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\UnipaMiniTask.CORE.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\UnipaMiniTask.CORE.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\bin\Debug\Dapper.xml
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\obj\Debug\UnipaMiniTask.DAL.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\obj\Debug\UnipaMiniTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\obj\Debug\UnipaMiniTask.DAL.csproj.CopyComplete
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\obj\Debug\UnipaMiniTask.DAL.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.DAL\obj\Debug\UnipaMiniTask.DAL.pdb

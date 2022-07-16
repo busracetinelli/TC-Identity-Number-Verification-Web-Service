@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Yeni Öğrenci Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    @using (Html.BeginForm("Add", "Home", FormMethod.Post, new { @class = "row" }))
+    {
+        <div class="col-md-7 col-lg-8">
+            <h4 class="mb-3">Yeni Öğrenci Ekle</h4>
+            <hr class="my-4">
+            <div class="row g-3">
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <div class="col-sm-12">
+                        <label for="Messages" class="form-label" style="color:red;">@ViewBag.ErrorMessage</label>
+                    </div>
+                }
+                <div class="col-sm-12">
+                    <label for="TR_IdentificationNumber" class="form-label">T.C. Kimlik No</label>
+                    <input type="text" class="form-control" id="TR_IdentificationNumber" name="TR_IdentificationNumber" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <div class="col-sm-6">
+                    <label for="Name" class="form-label">Öğrenci Ad</label>
+                    <input type="text" class="form-control" id="Name" name="Name" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <div class="col-sm-6">
+                    <label for="Surname" class="form-label">Öğrenci Soyad</label>
+                    <input type="text" class="form-control" id="Surname" name="Surname" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <hr class="my-4">
+
+                <div class="col-sm-6">
+                    <label for="BirthDay" class="form-label">Öğrenci Doğum Tarihi</label>
+                    <input type="date" class="form-control" id="BirthDay" name="BirthDay" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <div class="col-sm-6">
+                    <label for="BirthPlace" class="form-label">Doğum Yeri</label>
+                    <input type="text" class="form-control" id="BirthPlace" name="BirthPlace" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <hr class="my-4">
+
+                <div class="col-sm-6">
+                    <label for="MotherName" class="form-label">Anne Adı</label>
+                    <input type="text" class="form-control" id="MotherName" name="MotherName" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+                <div class="col-sm-6">
+                    <label for="FatherName" class="form-label">Baba Adı</label>
+                    <input type="text" class="form-control" id="FatherName" name="FatherName" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+
+
+                <div class="col-sm-6">
+                    <label for="RecidanceCity" class="form-label">İkametgah İli</label>
+                    <input type="text" class="form-control" id="RecidanceCity" name="RecidanceCity" style="background-color:rgb(0 0 0 / 20%)" required>
+                </div>
+            </div>
+
+            <hr class="my-4">
+
+            <button class="w-100 btn btn-primary btn-lg" id="AddStudent" type="submit">EKLE</button>
+        </div>
+    }
+</div>

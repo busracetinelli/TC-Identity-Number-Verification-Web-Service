@@ -1,0 +1,13 @@
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.BLL.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.BLL.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.CORE.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.DAL.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\Dapper.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.CORE.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\UnipaMiniTask.DAL.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\bin\Debug\Dapper.xml
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\obj\Debug\UnipaMiniTask.BLL.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\obj\Debug\UnipaMiniTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\obj\Debug\UnipaMiniTask.BLL.csproj.CopyComplete
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\obj\Debug\UnipaMiniTask.BLL.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.BLL\obj\Debug\UnipaMiniTask.BLL.pdb

@@ -1,0 +1,6 @@
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\bin\Debug\UnipaMiniTask.CORE.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\bin\Debug\UnipaMiniTask.CORE.pdb
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\obj\Debug\UnipaMiniTask.CORE.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\obj\Debug\UnipaMiniTask.CORE.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\obj\Debug\UnipaMiniTask.CORE.dll
+C:\Users\busra\Desktop\UnipaMiniTask\UnipaMiniTask.CORE\obj\Debug\UnipaMiniTask.CORE.pdb
